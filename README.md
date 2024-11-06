@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on projects<br>👯 I’m looking to collaborate <br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning Web development<br>💬 Ask me about C++,Python<br>⚡ Fun fact : 404
 
 
 ## 🌐 Socials:
